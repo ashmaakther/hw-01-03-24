@@ -1,0 +1,28 @@
+h3{
+    border: 5px solid green;
+    font-size: 30px;
+    color: blue;
+    
+}
+
+.title{
+    border: 10px solid red;
+    background-color: rgba(0, 0, 0, 0.692);
+
+}
+
+.big_font{
+    font-size: 50px;
+}
+
+#head{
+    background-color:yellowgreen
+
+}
+.dummy{
+    background: gray;
+}
+table, th, td {
+border: 2px solid black;
+
+}
